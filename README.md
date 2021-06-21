@@ -1,7 +1,6 @@
 <p align="center">
 
-![Leandro ](https://github-readme-stats.vercel.app/api?username=leandryncsc&show_icons=true&theme=radical)
-
+![Leandro Bezerra GitHub stats](https://github-readme-stats.vercel.app/api?username=leandryncsc&theme=dark&show_icons=true)
 
 
 
