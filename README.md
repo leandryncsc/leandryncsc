@@ -23,7 +23,7 @@
 - 👨‍💻 Desenvolvimento  na **Ancora Distribuidora Alimento LTDA**.
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas , 4° semestre.
 - 💙 Interesse: Java, html, css, javaScript e c#. 
-- :video_game: Gosta de jogar Jogos FPS? É só chamar, vamos subir de patente juntos ou não hehehe
+- :video_game: Gosta de jogar Jogos FPS? É só chamar, vamos subir de patente juntos
 
 
 ## Skills :nerd_face:
@@ -49,17 +49,15 @@
 ## Contact :iphone:
 
 <p align="center">
-    <a href="https://github.com/leandryncsc">
+    <a href="https://github.com/leandryncsc"> 
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/leandryncsc">
     </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = "mailto:leandrinhodoema@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:leandrinhodoema@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leandrinhodoema@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/leandro-bezerra-2041a6122/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/leandro-bezerra-2041a6122/">
-    </a>
+  <a href="https://www.linkedin.com/in/leandro-bezerra-2041a6122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </p>
 
 <p align="center"> 
