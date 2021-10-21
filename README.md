@@ -1,14 +1,6 @@
 
 <p align="center">
 
-<a href="https://github.com/leandryncsc">
-  <img align = "center" src = "https://github-readme-stats.anuraghazra1.vercel.app/api?username=leandryncsc&show_icons=true&include_all_commits=true&theme=dark" />
-</a>
-<a href="https://github.com/leandryncsc">
-  <img align = "center" src = "https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leandryncsc&layout=compact&theme=dark" />
-</a>
-
-
 
 ## Olá, sou o Leandro Bezerra <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
