@@ -31,6 +31,7 @@
     <img height="40" 
    
 </p>
+    
 
 ## Contact :iphone:
 
@@ -46,7 +47,11 @@
   </a>
 </p>
 
+<img src="https://github.com/Biellms/Biellms/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
 <p align="center"> 
+    
+    
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
