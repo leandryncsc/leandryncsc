@@ -11,6 +11,8 @@
 - 💙 Interesse: Java, html, css, javaScript e c#. 
 - :video_game: Gosta de jogar Jogos FPS? É só chamar, vamos subir de patente juntos
 
+<img src="https://github.com/Biellms/Biellms/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
 
 ## Skills :nerd_face:
 <p align="center">
@@ -30,6 +32,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" 
    
+         
 </p>
     
 
@@ -47,7 +50,6 @@
   </a>
 </p>
 
-<img src="https://github.com/Biellms/Biellms/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 <p align="center"> 
     
