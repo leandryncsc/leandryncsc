@@ -9,7 +9,7 @@
 
 
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandryncsc&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandryncsc&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
 
 <img  src="https://github.com/Biellms/Biellms/raw/output/github-contribution-grid-snake.svg"  alt="Snake animation"  style="max-width: 100%;">
