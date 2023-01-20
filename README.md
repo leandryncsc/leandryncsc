@@ -1,7 +1,9 @@
  
+<div align="center"> 	
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3000&pause=1000&color=04F70A&center=true&vCenter=true&width=440&height=60&lines=Ol%C3%A1+Sejam+todos+Bem+Vindos(as)+;me+chamo+Leandro+Bezerra+;estudando+para+ser+um+programador!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3000&pause=1000&color=04F70A&center=true&vCenter=true&width=440&height=60&lines=Ol%C3%A1+Sejam+todos+Bem+Vindos(as)+;Me+chamo+Leandro+Bezerra+;Estudando+para+ser+um+Programador!!!)](https://git.io/typing-svg)
 
+</div>
 
 - 👨‍💻 Desenvolvimento na **Ancora Distribuidora Alimento LTDA**.
 
