@@ -1,5 +1,5 @@
 
-## Olá, sou o Leandro Bezerra <img  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="30px"></h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3000&pause=1000&color=04F70A&center=true&vCenter=true&width=440&height=60&lines=Ol%C3%A1+Sejam+todos+Bem+Vindos(as)+;me+chamo+Leandro+Bezerra+;estudando+para+ser+um+programador!!!)](https://git.io/typing-svg)
 
 - 👨‍💻 Desenvolvimento na **Ancora Distribuidora Alimento LTDA**.
 
@@ -12,10 +12,10 @@
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandryncsc&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandryncsc&layout=compact&theme=dark)
 <p  align="center">
 <img  src ="https://github-readme-streak-stats.herokuapp.com?user=leandryncsc&theme=darcula&hide_border=true&background=FFFFFF0">
-
+</p>
 
 <img  src="https://github.com/Biellms/Biellms/raw/output/github-contribution-grid-snake.svg"  alt="Snake animation"  style="max-width: 100%, align=center;">
-</p>
+
 
 ## Contatos :iphone:
 
