@@ -1,5 +1,7 @@
-
+ 
+	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=3000&pause=1000&color=04F70A&center=true&vCenter=true&width=440&height=60&lines=Ol%C3%A1+Sejam+todos+Bem+Vindos(as)+;me+chamo+Leandro+Bezerra+;estudando+para+ser+um+programador!!!)](https://git.io/typing-svg)
+
 
 - 👨‍💻 Desenvolvimento na **Ancora Distribuidora Alimento LTDA**.
 
@@ -7,12 +9,12 @@
 
 - :video_game: Gosta de jogar Jogos FPS? É só chamar, vamos subir de patente juntos
 
+<div align="center">  
+ <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leandryncsc&show_icons=true&count_private=true&hide_border=true&title_color=7FFF00&icon_color=ADFF2F&text_color=90EE90&bg_color=0d1117" alt="Leandro Bezerra github stats"/>
+<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandryncsc&show_icons=true&count_private=true&hide_border=true&title_color=04F70AFF&icon_color=04F70AFF&text_color=04F70AFF&bg_color=0d1117"/>
 
-
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandryncsc&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandryncsc&layout=compact&theme=dark)
-<p  align="center">
-<img  src ="https://github-readme-streak-stats.herokuapp.com?user=leandryncsc&theme=darcula&hide_border=true&background=FFFFFF0">
-</p>
+<img  src ="https://github-readme-streak-stats.herokuapp.com?user=leandryncsc&theme=dark&hide_border=true&background=FFFFFF0">
+</div>
 
 <img  src="https://github.com/Biellms/Biellms/raw/output/github-contribution-grid-snake.svg"  alt="Snake animation"  style="max-width: 100%, align=center;">
 
