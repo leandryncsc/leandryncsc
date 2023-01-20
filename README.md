@@ -15,7 +15,7 @@
  <img width="49%" height="220px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leandryncsc&show_icons=true&count_private=true&hide_border=true&title_color=7FFF00&icon_color=ADFF2F&text_color=90EE90&bg_color=0d1117" alt="Leandro Bezerra github stats"/>
 <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandryncsc&show_icons=true&count_private=true&hide_border=true&title_color=04F70AFF&icon_color=04F70AFF&text_color=04F70AFF&bg_color=0d1117"/>
 
-<img  src ="https://github-readme-streak-stats.herokuapp.com?user=leandryncsc&theme=dark&hide_border=true&background=0d1117">
+<img  src ="https://github-readme-streak-stats.herokuapp.com?user=leandryncsc&show_icons=true&count_private=true&theme=dark&hide_border=true&background=0d1117">
 </div>
 
 <img  src="https://github.com/Biellms/Biellms/raw/output/github-contribution-grid-snake.svg"  alt="Snake animation"  style="max-width: 100%, align=center;">
