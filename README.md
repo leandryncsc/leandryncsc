@@ -14,6 +14,10 @@
 - :video_game: Gosta de jogar Jogos FPS? É só chamar, vamos subir de patente juntos
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">  
  <img width="49%" height="220px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leandryncsc&show_icons=true&count_private=true&hide_border=true&title_color=7FFF00&icon_color=ADFF2F&text_color=90EE90&bg_color=0d1117" alt="Leandro Bezerra github stats"/>
 <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandryncsc&show_icons=true&count_private=true&hide_border=true&title_color=04F70AFF&icon_color=04F70AFF&text_color=04F70AFF&bg_color=0d1117"/>
