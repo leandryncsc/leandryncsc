@@ -5,6 +5,8 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 - 👨‍💻 Desenvolvimento na **Ancora Distribuidora Alimento LTDA**.
 
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas , 4° semestre.
@@ -36,7 +38,17 @@
 	<img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
 
-
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=leandryncsc&column=8&theme=matrix&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ## Total de Visitas no perfil :detective: <br>
 
