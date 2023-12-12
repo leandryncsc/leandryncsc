@@ -37,7 +37,7 @@
 	<img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 	<img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
-
+<br>
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
