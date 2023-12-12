@@ -15,18 +15,30 @@
 
 
 <table>
-	<tr>
-	  <td>
- <img width="49%" height="220px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leandryncsc&show_icons=true&count_private=true&hide_border=true&title_color=7FFF00&icon_color=ADFF2F&text_color=90EE90&bg_color=0d1117" alt="Leandro Bezerra github stats"/>
-	  </td>
-	  <td>	
-<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandryncsc&show_icons=true&count_private=true&hide_border=true&title_color=04F70AFF&icon_color=04F70AFF&text_color=04F70AFF&bg_color=0d1117"/>
-	  </td>
-	<br/>
-	  <td>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leandryncsc&theme=blueberry_duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&stroke=20DD30&ring=20DD30&fire=20DD30&currStreakNum=20DD30&sideNums=20DD30&border=20DD30&currStreakLabel=20DD30&sideLabels=20DD30&dates=20DD30)](https://git.io/streak-stats)
-	  </td>
-	</tr>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=leandryncsc&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandryncsc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=leandryncsc&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
 </table>
 
 
